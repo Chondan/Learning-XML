@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code>
+	<script>
+		<![CDATA[
+		function matchwo(a, b) {
+			if (a < b && a < 0) {
+				return 1;
+
+			} else {
+				return 0;
+			}
+		}
+		]]>
+	</script>
+</code>
